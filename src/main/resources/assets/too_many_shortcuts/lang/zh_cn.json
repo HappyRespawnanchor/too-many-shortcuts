@@ -27,6 +27,6 @@
   "too_many_shortcuts.modifier.shift": "Shift",
   "too_many_shortcuts.modifier.shift.short": "Shft",
   "too_many_shortcuts.modifier.shift.tiny": "S",
-  "too_many_shortcuts.options.controls.reset.tooltip": "Hold Shift to reset all alternatives as well",
-  "too_many_shortcuts.options.controls.alternatives": "%s alternative %d"
+  "too_many_shortcuts.options.controls.reset.tooltip": "按下 Shift 以重置所有备用键。",
+  "too_many_shortcuts.options.controls.alternatives": "%s 个备用键 %d"
 }
